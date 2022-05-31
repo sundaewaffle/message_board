@@ -1,0 +1,115 @@
+.hide_seek:active .hide {
+	display: block;
+}
+.seek {
+	height: 14px;
+	color: #404040;
+	font-weight: bolder;
+}
+.hide {
+	display: none;
+	position: absolute;
+	padding-top: 20px;
+}
+.hide:hover {
+	display: block;
+}
+.hide span {
+	display:block;
+}
+
+
+red {
+        color:#ff0000;
+}
+green {
+        color:#00ff00;
+}
+blue {
+        color:#0000ff;
+}
+yellow {
+	color:#ffff00;
+}
+purple {
+	color:#ff00ff;
+}
+cyan-blue {
+	color:#00ffff;
+}
+orange {
+	color:#ff8000;
+}
+pink {
+	color:#ff80ff;
+}
+silver {
+	color:#c0c0c0;
+}
+gray {
+	color:#808080;
+}
+brown {
+	color:#400000;
+}
+white {
+	color:#ffffff;
+}
+fs8 {
+	font-size:8px;
+}
+fs9 {
+        font-size:9px;
+}
+}
+fs_very_small {
+        font-size:9px;
+}
+fs10 {
+        font-size:10px;
+}
+fs11 {
+        font-size:11px;
+}
+fs12 {
+        font-size:12px;
+}
+fs_small {
+	font-size:12px;
+}
+fs14 {
+        font-size:14px;
+}
+fs16 {
+        font-size:16px;
+}
+fs18 {
+        font-size:18px;
+}
+fs20 {
+        font-size:20px;
+}
+fs22 {
+        font-size:22px;
+}
+fs24 {
+        font-size:24px;
+}
+fs_big {
+        font-size:24px;
+}
+fs26 {
+        font-size:26px;
+}
+fs28 {
+        font-size:28px;
+}
+fs36 {
+        font-size:36px;
+}
+fs_very_big {
+	font-size:36px;
+}
+fs48 {
+        font-size:48px;
+}
